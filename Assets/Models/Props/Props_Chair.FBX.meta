@@ -1,24 +1,24 @@
 fileFormatVersion: 2
-guid: ae20e5c3cb1bccd49bf67a65c6b5c739
+guid: 33255c0c6247afd44ab99d90ea9e89c3
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Sphere005
-    100004: Sphere006
+    100002: Props_Chair 1
+    100004: Props_ChairSpring
     400000: //RootNode
-    400002: Sphere005
-    400004: Sphere006
+    400002: Props_Chair 1
+    400004: Props_ChairSpring
     2100000: No Name
-    2300000: Sphere005
-    2300002: Sphere006
-    3300000: Sphere005
-    3300002: Sphere006
-    4300000: Sphere006
-    4300002: Sphere005
+    2300000: Props_Chair 1
+    2300002: Props_ChairSpring
+    3300000: Props_Chair 1
+    3300002: Props_ChairSpring
+    4300000: Props_Chair
+    4300002: Props_ChairSpring
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -78,7 +78,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

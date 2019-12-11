@@ -1,39 +1,17 @@
 fileFormatVersion: 2
-guid: 1fdd79427a9eaf946953188152042f1c
+guid: d79ded2635d805041b84c9db1ff52f31
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box002
-    100002: Cylinder006
-    100004: Cylinder032
-    100006: //RootNode
-    100008: Sphere002
-    100010: Sphere003
-    400000: Box002
-    400002: Cylinder006
-    400004: Cylinder032
-    400006: //RootNode
-    400008: Sphere002
-    400010: Sphere003
-    2100000: No Name
-    2300000: Box002
-    2300002: Cylinder006
-    2300004: Cylinder032
-    2300006: Sphere002
-    2300008: Sphere003
-    3300000: Box002
-    3300002: Cylinder006
-    3300004: Cylinder032
-    3300006: Sphere002
-    3300008: Sphere003
-    4300000: Sphere002
-    4300002: Box002
-    4300004: Cylinder006
-    4300006: Sphere003
-    4300008: Cylinder032
+    100000: //RootNode
+    400000: //RootNode
+    2100000: 'Material #0'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box640
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -93,7 +71,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

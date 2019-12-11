@@ -1,39 +1,25 @@
 fileFormatVersion: 2
-guid: 811cba32904dc044daf575a104ae3606
+guid: 4daaeb086f66ab74c88e40bfb3e310b7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box002
-    100002: Cylinder006
-    100004: Cylinder032
-    100006: //RootNode
-    100008: Sphere002
-    100010: Sphere003
-    400000: Box002
-    400002: Cylinder006
-    400004: Cylinder032
-    400006: //RootNode
-    400008: Sphere002
-    400010: Sphere003
-    2100000: No Name
-    2300000: Box002
-    2300002: Cylinder006
-    2300004: Cylinder032
-    2300006: Sphere002
-    2300008: Sphere003
-    3300000: Box002
-    3300002: Cylinder006
-    3300004: Cylinder032
-    3300006: Sphere002
-    3300008: Sphere003
-    4300000: Sphere002
-    4300002: Box002
-    4300004: Cylinder006
-    4300006: Sphere003
-    4300008: Cylinder032
+    100000: //RootNode
+    100002: Props_Book 1
+    100004: Props_BookGear
+    400000: //RootNode
+    400002: Props_Book 1
+    400004: Props_BookGear
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2300000: Props_Book 1
+    2300002: Props_BookGear
+    3300000: Props_Book 1
+    3300002: Props_BookGear
+    4300000: Props_Book
+    4300002: Props_BookGear
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -93,7 +79,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
