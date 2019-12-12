@@ -1,26 +1,14 @@
 fileFormatVersion: 2
-guid: 68f5c1c832ab584409eac8d85d4ccc9d
+guid: 2749b3097bf5276419cc91f73e6b4fab
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Props_Chair 1
-    100004: Props_ChairCushionFrame
-    100006: Props_ChairSpring
     400000: //RootNode
-    400002: Props_Chair 1
-    400004: Props_ChairCushionFrame
-    400006: Props_ChairSpring
     2100000: No Name
-    2300000: Props_Chair 1
-    2300002: Props_ChairCushionFrame
-    2300004: Props_ChairSpring
-    3300000: Props_Chair 1
-    3300002: Props_ChairCushionFrame
-    3300004: Props_ChairSpring
-    4300000: Props_Chair
-    4300002: Props_ChairSpring
-    4300004: Props_ChairCushionFrame
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Room_CeilingWall
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -52,7 +40,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.95
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
