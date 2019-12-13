@@ -3,69 +3,14 @@ guid: e1407a399c60bae4989cac76226592a0
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: doorwall001
-    100002: //RootNode
-    100004: wall 1
-    100006: wall001
-    100008: wall002
-    100010: wall003
-    100012: wall005
-    100014: wall006
-    100016: wall007
-    100018: wall008
-    100020: wall009
-    100022: wall010
-    100024: wall011
-    400000: doorwall001
-    400002: //RootNode
-    400004: wall 1
-    400006: wall001
-    400008: wall002
-    400010: wall003
-    400012: wall005
-    400014: wall006
-    400016: wall007
-    400018: wall008
-    400020: wall009
-    400022: wall010
-    400024: wall011
+    100000: //RootNode
+    100002: wall007
+    400000: //RootNode
+    400002: wall007
     2100000: 08 - Default
-    2300000: doorwall001
-    2300002: wall 1
-    2300004: wall001
-    2300006: wall002
-    2300008: wall003
-    2300010: wall005
-    2300012: wall006
-    2300014: wall007
-    2300016: wall008
-    2300018: wall009
-    2300020: wall010
-    2300022: wall011
-    3300000: doorwall001
-    3300002: wall 1
-    3300004: wall001
-    3300006: wall002
-    3300008: wall003
-    3300010: wall005
-    3300012: wall006
-    3300014: wall007
-    3300016: wall008
-    3300018: wall009
-    3300020: wall010
-    3300022: wall011
-    4300000: wall003
-    4300002: doorwall001
-    4300004: wall005
-    4300006: wall006
-    4300008: wall007
-    4300010: wall008
-    4300012: wall009
-    4300014: wall010
-    4300016: wall011
-    4300018: wall
-    4300020: wall001
-    4300022: wall002
+    2300000: wall007
+    3300000: wall007
+    4300000: wall007
   externalObjects: {}
   materials:
     importMaterials: 1

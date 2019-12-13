@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: a08bfeed86568e044b2a06a32a99db68
+guid: 5c6072e312712144f9ba0fdad8b16511
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: 000 - Default
+    2100000: 08 - Default
     2300000: //RootNode
     3300000: //RootNode
-    4300000: door_line
+    4300000: floor009
   externalObjects: {}
   materials:
     importMaterials: 1

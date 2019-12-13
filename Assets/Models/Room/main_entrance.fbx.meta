@@ -3,39 +3,12 @@ guid: 03e564e1efe11dd43ba82f1885220882
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: doorwall
-    100002: //RootNode
-    100004: wall012
-    100006: wall013
-    100008: wall014
-    100010: wall015
-    100012: wall016
-    400000: doorwall
-    400002: //RootNode
-    400004: wall012
-    400006: wall013
-    400008: wall014
-    400010: wall015
-    400012: wall016
+    100000: //RootNode
+    400000: //RootNode
     2100000: 08 - Default
-    2300000: doorwall
-    2300002: wall012
-    2300004: wall013
-    2300006: wall014
-    2300008: wall015
-    2300010: wall016
-    3300000: doorwall
-    3300002: wall012
-    3300004: wall013
-    3300006: wall014
-    3300008: wall015
-    3300010: wall016
-    4300000: doorwall
-    4300002: wall012
-    4300004: wall013
-    4300006: wall014
-    4300008: wall015
-    4300010: wall016
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: entrance
   externalObjects: {}
   materials:
     importMaterials: 1
