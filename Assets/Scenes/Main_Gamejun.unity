@@ -88,7 +88,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 112000004, guid: f0a370522e7274e4f8d9425c35decdac,
+  m_LightingDataAsset: {fileID: 112000004, guid: 25144b3fd4f9c0f48b6c723b46490dd0,
     type: 2}
   m_UseShadowmask: 0
 --- !u!196 &4
@@ -347,6 +347,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: 1aa1161ec1078c049977c64cf95bcea4, type: 3}
       propertyPath: m_Name
       value: Props_AstronomicalObservation
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 1aa1161ec1078c049977c64cf95bcea4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 1aa1161ec1078c049977c64cf95bcea4, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2236,7 +2240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.49
+      value: 1.138
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10215,7 +10219,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 0.9254902, g: 0.8898608, b: 0.7372549, a: 1}
-  m_Intensity: 3
+  m_Intensity: 0.97
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -10234,7 +10238,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
