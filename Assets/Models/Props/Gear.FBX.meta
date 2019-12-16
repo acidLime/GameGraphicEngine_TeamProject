@@ -1,15 +1,83 @@
 fileFormatVersion: 2
-guid: 7a55f28342159f54c818aab9fb3ccba3
+guid: 55ebd205682c8b342b7a2014c95afe66
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: 01 - Default
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Cylinder025
-  externalObjects: {}
+    100000: Cylinder134
+    100002: Cylinder135
+    100004: Cylinder137
+    100006: //RootNode
+    100008: Gear053
+    100010: Gear055
+    100012: Gear056
+    100014: Gear057
+    100016: Gear058
+    100018: Gear059
+    100020: Gear060
+    100022: Gear061
+    100024: Gear062
+    400000: Cylinder134
+    400002: Cylinder135
+    400004: Cylinder137
+    400006: //RootNode
+    400008: Gear053
+    400010: Gear055
+    400012: Gear056
+    400014: Gear057
+    400016: Gear058
+    400018: Gear059
+    400020: Gear060
+    400022: Gear061
+    400024: Gear062
+    2100000: No Name
+    2100002: 01 - Default
+    2300000: Cylinder134
+    2300002: Cylinder135
+    2300004: Cylinder137
+    2300006: Gear053
+    2300008: Gear055
+    2300010: Gear056
+    2300012: Gear057
+    2300014: Gear058
+    2300016: Gear059
+    2300018: Gear060
+    2300020: Gear061
+    2300022: Gear062
+    3300000: Cylinder134
+    3300002: Cylinder135
+    3300004: Cylinder137
+    3300006: Gear053
+    3300008: Gear055
+    3300010: Gear056
+    3300012: Gear057
+    3300014: Gear058
+    3300016: Gear059
+    3300018: Gear060
+    3300020: Gear061
+    3300022: Gear062
+    4300000: Gear053
+    4300002: Gear055
+    4300004: Gear056
+    4300006: Gear057
+    4300008: Gear058
+    4300010: Cylinder134
+    4300012: Cylinder135
+    4300014: Gear059
+    4300016: Gear060
+    4300018: Gear061
+    4300020: Cylinder137
+    4300022: Gear062
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 965376973c81720418ba0c4b13f31713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6a9f0b7215283ee4e9cbcf3d3b40f9f1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
