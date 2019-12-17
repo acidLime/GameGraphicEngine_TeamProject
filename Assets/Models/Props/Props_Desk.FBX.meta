@@ -5,10 +5,10 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: 'Material #0'
+    2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Box640
+    4300000: Props_Desk
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -49,7 +49,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

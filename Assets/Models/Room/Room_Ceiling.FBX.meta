@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 531be72f007d68e488acf35d39491c30
+guid: 4fb1d21527759c0488f64eacc7b0e797
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -18,7 +18,7 @@ ModelImporter:
     4300002: Room_CeilingIn
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -56,7 +56,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -78,7 +78,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
