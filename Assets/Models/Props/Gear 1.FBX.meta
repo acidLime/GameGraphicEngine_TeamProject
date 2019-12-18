@@ -1,14 +1,81 @@
 fileFormatVersion: 2
-guid: 2b01a6e51d2161a49a1ff7888a2052cb
+guid: 48f4d219078dea54fa3e9461bc0c03db
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: Cylinder153
+    100002: //RootNode
+    100004: Gear072
+    100006: Gear073
+    100008: Gear074
+    100010: Gear075
+    100012: Gear076
+    100014: Gear077
+    100016: Gear078
+    100018: Gear079
+    100020: Gear080
+    100022: Gear081
+    100024: Gear082
+    100026: Gear083
+    100028: Gear084
+    400000: Cylinder153
+    400002: //RootNode
+    400004: Gear072
+    400006: Gear073
+    400008: Gear074
+    400010: Gear075
+    400012: Gear076
+    400014: Gear077
+    400016: Gear078
+    400018: Gear079
+    400020: Gear080
+    400022: Gear081
+    400024: Gear082
+    400026: Gear083
+    400028: Gear084
     2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: map
+    2300000: Cylinder153
+    2300002: Gear072
+    2300004: Gear073
+    2300006: Gear074
+    2300008: Gear075
+    2300010: Gear076
+    2300012: Gear077
+    2300014: Gear078
+    2300016: Gear079
+    2300018: Gear080
+    2300020: Gear081
+    2300022: Gear082
+    2300024: Gear083
+    2300026: Gear084
+    3300000: Cylinder153
+    3300002: Gear072
+    3300004: Gear073
+    3300006: Gear074
+    3300008: Gear075
+    3300010: Gear076
+    3300012: Gear077
+    3300014: Gear078
+    3300016: Gear079
+    3300018: Gear080
+    3300020: Gear081
+    3300022: Gear082
+    3300024: Gear083
+    3300026: Gear084
+    4300000: Cylinder153
+    4300002: Gear072
+    4300004: Gear073
+    4300006: Gear074
+    4300008: Gear075
+    4300010: Gear076
+    4300012: Gear077
+    4300014: Gear078
+    4300016: Gear079
+    4300018: Gear080
+    4300020: Gear081
+    4300022: Gear082
+    4300024: Gear083
+    4300026: Gear084
   externalObjects: {}
   materials:
     importMaterials: 0
