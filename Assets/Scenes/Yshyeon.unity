@@ -88,7 +88,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000002, guid: 25144b3fd4f9c0f48b6c723b46490dd0,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -2762,6 +2763,18 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 711a842334610f8418dc365abfd80645, type: 3}
       propertyPath: m_Name
       value: orb
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 711a842334610f8418dc365abfd80645, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 711a842334610f8418dc365abfd80645, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 711a842334610f8418dc365abfd80645, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 711a842334610f8418dc365abfd80645, type: 3}
       propertyPath: m_LocalPosition.x
