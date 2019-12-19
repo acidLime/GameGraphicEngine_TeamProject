@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Gamejun.unity
+    guid: 8be50ab1e4159cd46851e3af65e1010e
+  - enabled: 1
+    path: Assets/Scenes/sujii.unity
+    guid: f01e8418934d4ec46b7f743bc64cc7c8
+  - enabled: 1
+    path: Assets/Scenes/Yshyeon.unity
+    guid: 547f7de097830564a9e34456e397629d
   m_configObjects: {}

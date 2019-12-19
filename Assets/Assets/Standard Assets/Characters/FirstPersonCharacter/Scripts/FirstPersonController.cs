@@ -2,6 +2,7 @@ using System;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 using UnityStandardAssets.Utility;
+using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
 
 namespace UnityStandardAssets.Characters.FirstPerson
@@ -42,6 +43,11 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
+        private void Awake()
+        {
+            SceneManager.LoadScene(1,LoadSceneMode.Additive);
+            SceneManager.LoadScene(2,LoadSceneMode.Additive);
+        }
         // Use this for initialization
         private void Start()
         {
