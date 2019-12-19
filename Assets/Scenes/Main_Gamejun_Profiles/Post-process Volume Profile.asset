@@ -80,7 +80,7 @@ MonoBehaviour:
     value: 0
   tint:
     overrideState: 1
-    value: 0
+    value: 10
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -95,10 +95,10 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 1
-    value: -0.83
+    value: -2.16
   contrast:
     overrideState: 1
-    value: 0
+    value: -2
   mixerRedOutRedIn:
     overrideState: 1
     value: 100
@@ -1356,7 +1356,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.45
+    value: 1.5
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1396,13 +1396,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b94fcd11afffcb142908bfcb1e261fba, type: 3}
   m_Name: MotionBlur
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
   shutterAngle:
     overrideState: 1
-    value: 210
+    value: 118
   sampleCount:
     overrideState: 1
     value: 10
@@ -1424,10 +1424,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.79
+    value: 4.95
   threshold:
     overrideState: 1
-    value: 1
+    value: 0.9
   softKnee:
     overrideState: 1
     value: 0.5
@@ -1514,13 +1514,13 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.413
+    value: 0.42
   smoothness:
     overrideState: 1
     value: 0.2
   roundness:
     overrideState: 1
-    value: 1
+    value: 0.912
   rounded:
     overrideState: 1
     value: 0
@@ -1543,7 +1543,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
   m_Name: ScreenSpaceReflections
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 0
@@ -1595,7 +1595,7 @@ MonoBehaviour:
     value: 0
   keyValue:
     overrideState: 1
-    value: 5
+    value: 5.53
   eyeAdaptation:
     overrideState: 1
     value: 0
@@ -1626,7 +1626,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.019
+    value: 0.1
   size:
     overrideState: 1
     value: 1
@@ -1655,7 +1655,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.061
+    value: 0.231
   fastMode:
     overrideState: 1
     value: 0
@@ -1674,16 +1674,16 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 0
+    value: 1
   focusDistance:
     overrideState: 1
-    value: 10
+    value: 4.11
   aperture:
     overrideState: 1
-    value: 5.6
+    value: 8
   focalLength:
     overrideState: 1
-    value: 50
+    value: 40
   kernelSize:
     overrideState: 1
     value: 1
